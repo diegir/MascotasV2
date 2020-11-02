@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca</string>
+    <string name="texto_about">Contactame esta!!</string>
+    <string name="texto_settings">Mi nombre es Diego y me gustan las manzanas</string>
+    <string name="copyright">Umbrella Corporation © - 2020</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="nombre_persona">Diego Pérez</string>
+    <string name="menu_view">View</string>
+    <string name="menu_view_detail">View Image Detail</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">El Kokun del CAP</string>
+    <string name="telefono">0800 9020</string>
+    <string name="email">google@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
